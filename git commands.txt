@@ -18,7 +18,17 @@ remove all files of same extension from git---  git rm --cached *.html
 
 add every file in git---   git add .(dot)
 
-check insertion happen or not---   git commit -m 'filename.html'
+add changes in master---   git commit -m 'filename.html'
 
 ignore a file to add---   touch .gitignore
 then add filename in that .gitignore file
+
+create branch--- git branch name
+
+enter in branch--- git checkout branch_name
+
+merge files---  git merge branch_name 
+
+get git in folder--- git clone url
+
+pull preos-- git pull
