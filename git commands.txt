@@ -1,0 +1,24 @@
+clear screen---  clear
+
+make new file----- touch filename.extension
+
+initialize git----   git init
+
+add name and email---- git config --global user.name 'Prince' and git config --global '@email.com'
+
+add file in git repos----  git add filename.html
+
+remove file from git repos---  git rm --cached filename.html
+
+check status of git---  git status
+
+add all files of same extension in git---  git add *.html
+
+remove all files of same extension from git---  git rm --cached *.html
+
+add every file in git---   git add .(dot)
+
+check insertion happen or not---   git commit -m 'filename.html'
+
+ignore a file to add---   touch .gitignore
+then add filename in that .gitignore file
